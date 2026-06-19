@@ -15,3 +15,4 @@ Data contains city, month, and day of the week and data can be filtered to get t
 
 ### Credits
 - [Udacity Programming for Data Science Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+
