@@ -5,7 +5,9 @@ June 19, 2026
 Bikeshare Data
 
 ### Description
-An interactive Python script that explores bike share usage patterns across three major US cities — Chicago, New York City, and Washington. Users can filter data by city, month, and day of the week to view statistics on popular travel times, stations, trip durations, and user demographics.
+A Python script that explores bike share usage patterns across three major US cities — Chicago, New York City, and Washington.
+
+Data contains city, month, and day of the week and data can be filtered to get travel times, stations, trip durations, and user demographics.
 
 ### Files used
 - `bikeshare_starter.py`
@@ -13,4 +15,3 @@ An interactive Python script that explores bike share usage patterns across thre
 
 ### Credits
 - [Udacity Programming for Data Science Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
-- [Pandas documentation](https://pandas.pydata.org/docs/)
